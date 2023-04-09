@@ -1,4 +1,4 @@
-#Random Video Clip Generator
+Random Video Clip Generator
 This is a Python script that generates a random video clip using a main video file and a music file. The generated video clip is a concatenation of randomly selected portions of the main video with a duration of 5 to 10 seconds each. The generated clip has a maximum duration of 10 seconds and is combined with the audio from the provided music file.
 
 Requirements
@@ -12,10 +12,9 @@ Place the main video file and music file in the same directory as the script.
 Open a terminal or command prompt and navigate to the directory containing the script and the files.
 
 Run the script using the following command:
-
-bash
-Copy code
 python main.py
+
+
 The generated video clip will be saved as "output.mp4" in the same directory as the script.
 
 Configuration
