@@ -1,11 +1,5 @@
-Random Video Clip Generator
+Random Video Clip Generator ======>>>>>
 This is a Python script that generates a random video clip using a main video file and a music file. The generated video clip is a concatenation of randomly selected portions of the main video with a duration of 5 to 10 seconds each. The generated clip has a maximum duration of 10 seconds and is combined with the audio from the provided music file.
-
-Requirements
-Python 3.x
-MoviePy library
-Usage
-Clone or download the repository.
 
 Place the main video file and music file in the same directory as the script.
 
